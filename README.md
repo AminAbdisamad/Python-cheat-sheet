@@ -27,7 +27,7 @@ quit()
 ```
 ## Install a package
 ```
-pipenv install camelcase
+pipenv install pandas
 ```
 ## Check local packages
 ```
@@ -35,7 +35,7 @@ pipenv lock -r
 ```
 ## Uninstall a package
 ```
-pipenv uninstall camelcase
+pipenv uninstall pandas
 ```
 ## Install a dev package
 ```
