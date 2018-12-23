@@ -12,6 +12,12 @@ pipenv shell
 ```
 python --version
 ```
+
+## Check Installed Packages
+```python
+pip3 freeze
+
+```
 ## Check path
 ```
 python
